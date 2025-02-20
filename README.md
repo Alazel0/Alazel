@@ -14,7 +14,7 @@
 </p>
 
 ```python
-class AbhigyanTrips():
+class Alazel():
     
   def __init__(self):
     self.name = "Alexander Venegas";
